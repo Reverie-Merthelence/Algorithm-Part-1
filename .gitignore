@@ -158,3 +158,19 @@ Week 2-Bag, Queue and Stack/queues/Test.java
 Week 2-Bag, Queue and Stack/queues/tinyTale.txt
 Week 2-Bag, Queue and Stack/Week 2-Bag, Quese and Stack (Iterators).pdf
 Week 2-Bag, Queue and Stack/Week 2-Elementary Sorts (Comparable\[\]).pdf
+*.txt
+*.png
+*.xml
+*.pdf
+*.class
+*.old
+*.jar
+*.iml
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/internal/package-info.java
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/internal/module-info.java
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/internal/Interface.java
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/internal/Enum.java
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/internal/Class.java
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/internal/AnnotationType.java
+Week 3-Merge Sort, Quick Sort/collinear/.idea/fileTemplates/includes/File Header.java
+Week 3-Merge Sort, Quick Sort/collinear/Test.java
